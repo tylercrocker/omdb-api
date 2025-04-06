@@ -27,6 +27,7 @@ module Omdb
         website
         runtime
         title
+        total_seasons
         type
         writer
         year
